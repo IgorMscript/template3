@@ -552,6 +552,7 @@ body{
     }
     .footer__inner{
         justify-content: center;
+        padding: 0 25px 0 25px;
     }
     .footer-social__list{
         padding-bottom: 0;
