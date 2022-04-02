@@ -380,7 +380,7 @@ body{
 }
 .contacts__box{
     margin-left: auto;
-    width: 390px;
+    max-width: 390px;
     background-color: #FFFFFF;
     padding: 33px 0 0px 20px;
 }
