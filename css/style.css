@@ -709,6 +709,8 @@ body{
     .contacts__box{
         max-width: 100%;
     }
+    .header__content {
+    margin-top: -75px;
     ,
 }
 
